@@ -1,0 +1,5 @@
+﻿  TitleScene.cpp
+c:\users\jhlee\source\repos\project10\project10\titlescene.cpp(10): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SoundMgr.cpp
+  코드를 생성하고 있습니다...
+  Project10.vcxproj -> c:\users\jhlee\source\repos\Project10\Debug\Project10.exe

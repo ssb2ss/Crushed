@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Framework">
+      <UniqueIdentifier>{befa3ef4-63f4-49b2-9835-dc18a8ed9126}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Patterns">
+      <UniqueIdentifier>{49702ad5-40e5-4d1a-8f6b-57453fcd1d66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Scenes">
+      <UniqueIdentifier>{6b22d6e9-ff7b-48f9-b777-dcaf271e4776}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ETC">
+      <UniqueIdentifier>{841e516b-07a2-4239-8bb0-44e5a5c89da9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Framework">
+      <UniqueIdentifier>{2050ced9-1d87-4d52-8499-e0ed3591a6f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Pattern">
+      <UniqueIdentifier>{6fec46fb-0baf-4ca1-a19d-759732e0c5fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Scenes">
+      <UniqueIdentifier>{1bd2343c-88b0-496d-8614-12af7e527efb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\ETC">
+      <UniqueIdentifier>{eda3e0ae-2590-4e96-99e4-a443ab3da828}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Button.cpp">
+      <Filter>소스 파일\Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="IObject.cpp">
+      <Filter>소스 파일\Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일\Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="myFunction.cpp">
+      <Filter>소스 파일\Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundMgr.cpp">
+      <Filter>소스 파일\Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>소스 파일\Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>소스 파일\Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="WinFrame.cpp">
+      <Filter>소스 파일\Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="BouncePattern.cpp">
+      <Filter>소스 파일\Patterns</Filter>
+    </ClCompile>
+    <ClCompile Include="CenterRotationPattern.cpp">
+      <Filter>소스 파일\Patterns</Filter>
+    </ClCompile>
+    <ClCompile Include="CrossPattern.cpp">
+      <Filter>소스 파일\Patterns</Filter>
+    </ClCompile>
+    <ClCompile Include="HalfPattern.cpp">
+      <Filter>소스 파일\Patterns</Filter>
+    </ClCompile>
+    <ClCompile Include="LinePattern.cpp">
+      <Filter>소스 파일\Patterns</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiShotPattern.cpp">
+      <Filter>소스 파일\Patterns</Filter>
+    </ClCompile>
+    <ClCompile Include="NameGuakPattern.cpp">
+      <Filter>소스 파일\Patterns</Filter>
+    </ClCompile>
+    <ClCompile Include="NameHongPattern.cpp">
+      <Filter>소스 파일\Patterns</Filter>
+    </ClCompile>
+    <ClCompile Include="NameLeePattern.cpp">
+      <Filter>소스 파일\Patterns</Filter>
+    </ClCompile>
+    <ClCompile Include="Pattern.cpp">
+      <Filter>소스 파일\Patterns</Filter>
+    </ClCompile>
+    <ClCompile Include="RandomTopEdgePattern.cpp">
+      <Filter>소스 파일\Patterns</Filter>
+    </ClCompile>
+    <ClCompile Include="SpiralPattern.cpp">
+      <Filter>소스 파일\Patterns</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoCirclePattern.cpp">
+      <Filter>소스 파일\Patterns</Filter>
+    </ClCompile>
+    <ClCompile Include="ZigzagRoadPattern.cpp">
+      <Filter>소스 파일\Patterns</Filter>
+    </ClCompile>
+    <ClCompile Include="ClearScene.cpp">
+      <Filter>소스 파일\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="EndScene.cpp">
+      <Filter>소스 파일\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScene.cpp">
+      <Filter>소스 파일\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="TitleScene.cpp">
+      <Filter>소스 파일\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>소스 파일\ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletManager.cpp">
+      <Filter>소스 파일\ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="DangerSignFirst.cpp">
+      <Filter>소스 파일\ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="DangerSignSecond.cpp">
+      <Filter>소스 파일\ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>소스 파일\ETC</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Button.h">
+      <Filter>헤더 파일\Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Def.h">
+      <Filter>헤더 파일\Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="header.h">
+      <Filter>헤더 파일\Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="IObject.h">
+      <Filter>헤더 파일\Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="IScene.h">
+      <Filter>헤더 파일\Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="myFunction.h">
+      <Filter>헤더 파일\Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일\Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>헤더 파일\Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundMgr.h">
+      <Filter>헤더 파일\Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일\Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>헤더 파일\Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="WinFrame.h">
+      <Filter>헤더 파일\Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="BouncePattern.h">
+      <Filter>헤더 파일\Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="CenterRotationPattern.h">
+      <Filter>헤더 파일\Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="CrossPattern.h">
+      <Filter>헤더 파일\Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="HalfPattern.h">
+      <Filter>헤더 파일\Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="LinePattern.h">
+      <Filter>헤더 파일\Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiShotPattern.h">
+      <Filter>헤더 파일\Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="NameHongPattern.h">
+      <Filter>헤더 파일\Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="NameGuakPattern.h">
+      <Filter>헤더 파일\Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="NameLeePattern.h">
+      <Filter>헤더 파일\Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="Pattern.h">
+      <Filter>헤더 파일\Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomTopEdgePattern.h">
+      <Filter>헤더 파일\Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="SpiralPattern.h">
+      <Filter>헤더 파일\Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoCirclePattern.h">
+      <Filter>헤더 파일\Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="ZigzagRoadPattern.h">
+      <Filter>헤더 파일\Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="ClearScene.h">
+      <Filter>헤더 파일\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="EndScene.h">
+      <Filter>헤더 파일\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScene.h">
+      <Filter>헤더 파일\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="TitleScene.h">
+      <Filter>헤더 파일\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>헤더 파일\ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletManager.h">
+      <Filter>헤더 파일\ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="DangerSignFirst.h">
+      <Filter>헤더 파일\ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="DangerSignSecond.h">
+      <Filter>헤더 파일\ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>헤더 파일\ETC</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,98 @@
+﻿D:\Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(Project10.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  BouncePattern.cpp
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\bouncepattern.cpp(23): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\bouncepattern.cpp(24): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Bullet.cpp
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\bullet.cpp(26): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\bullet.cpp(27): warning C4244: '+=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BulletManager.cpp
+  Button.cpp
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\button.cpp(7): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\button.cpp(8): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CenterRotationPattern.cpp
+  ClearScene.cpp
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\clearscene.cpp(8): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CrossPattern.cpp
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\crosspattern.cpp(24): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\crosspattern.cpp(25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\crosspattern.cpp(28): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\crosspattern.cpp(29): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DangerSignFirst.cpp
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\dangersignfirst.cpp(44): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\dangersignfirst.cpp(45): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\dangersignfirst.cpp(62): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\dangersignfirst.cpp(63): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\dangersignfirst.cpp(69): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\dangersignfirst.cpp(70): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\dangersignfirst.cpp(81): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\dangersignfirst.cpp(82): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\dangersignfirst.cpp(87): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\dangersignfirst.cpp(88): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DangerSignSecond.cpp
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\dangersignsecond.cpp(38): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\dangersignsecond.cpp(44): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\dangersignsecond.cpp(45): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\dangersignsecond.cpp(50): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\dangersignsecond.cpp(56): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\dangersignsecond.cpp(62): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\dangersignsecond.cpp(63): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\dangersignsecond.cpp(68): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\dangersignsecond.cpp(69): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\dangersignsecond.cpp(74): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\dangersignsecond.cpp(75): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\dangersignsecond.cpp(80): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EndScene.cpp
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\endscene.cpp(8): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameScene.cpp
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\gamescene.cpp(112): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\gamescene.cpp(113): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  HalfPattern.cpp
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\halfpattern.cpp(27): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\halfpattern.cpp(28): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\halfpattern.cpp(29): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\halfpattern.cpp(30): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LinePattern.cpp
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\linepattern.cpp(18): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\linepattern.cpp(21): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MultiShotPattern.cpp
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\multishotpattern.cpp(26): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\multishotpattern.cpp(27): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  NameGuakPattern.cpp
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\nameguakpattern.cpp(22): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  NameHongPattern.cpp
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\namehongpattern.cpp(22): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  NameLeePattern.cpp
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\nameleepattern.cpp(22): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Pattern.cpp
+  Player.cpp
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\player.cpp(8): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\player.cpp(9): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\player.cpp(55): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\player.cpp(67): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\player.cpp(79): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\player.cpp(91): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RandomTopEdgePattern.cpp
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\randomtopedgepattern.cpp(21): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\randomtopedgepattern.cpp(22): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  SpiralPattern.cpp
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\spiralpattern.cpp(23): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\spiralpattern.cpp(24): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Sprite.cpp
+  TitleScene.cpp
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\titlescene.cpp(10): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TwoCirclePattern.cpp
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\twocirclepattern.cpp(22): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\twocirclepattern.cpp(23): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WinFrame.cpp
+  ZigzagRoadPattern.cpp
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\zigzagroadpattern.cpp(25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\zigzagroadpattern.cpp(26): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\zigzagroadpattern.cpp(27): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\zigzagroadpattern.cpp(28): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  myFunction.cpp
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\myfunction.cpp(76): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\ㅁㅇ\휴지통\고등학교\crushed_최종본\crushed_최종본\myfunction.cpp(120): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  Crushed_최종본.vcxproj -> D:\ㅁㅇ\휴지통\고등학교\Crushed_최종본\Debug\Crushed_최종본.exe

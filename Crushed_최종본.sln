@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Crushed_최종본", "Crushed_최종본\Crushed_최종본.vcxproj", "{140A65C7-0EA4-4675-8837-EF34A454AA54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{140A65C7-0EA4-4675-8837-EF34A454AA54}.Debug|x64.ActiveCfg = Debug|x64
+		{140A65C7-0EA4-4675-8837-EF34A454AA54}.Debug|x64.Build.0 = Debug|x64
+		{140A65C7-0EA4-4675-8837-EF34A454AA54}.Debug|x86.ActiveCfg = Debug|Win32
+		{140A65C7-0EA4-4675-8837-EF34A454AA54}.Debug|x86.Build.0 = Debug|Win32
+		{140A65C7-0EA4-4675-8837-EF34A454AA54}.Release|x64.ActiveCfg = Release|x64
+		{140A65C7-0EA4-4675-8837-EF34A454AA54}.Release|x64.Build.0 = Release|x64
+		{140A65C7-0EA4-4675-8837-EF34A454AA54}.Release|x86.ActiveCfg = Release|Win32
+		{140A65C7-0EA4-4675-8837-EF34A454AA54}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16649FB6-8B94-432C-A047-92359622370E}
+	EndGlobalSection
+EndGlobal
